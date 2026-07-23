@@ -4,7 +4,7 @@
 
 | Nome | E-mail |
 |-------|--------|
-| Maria Luiza Cezar Souza | email@academico.ufs.br |
+| Maria Luiza Cezar Souza | malucezar@academico.ufs.br |
 | Micaely Cacho Oliveira | micaely2007@academico.ufs.br |
 | Pedro André Melo Andrade de Jesus | pedroandre0311@academico.ufs.br |
 
