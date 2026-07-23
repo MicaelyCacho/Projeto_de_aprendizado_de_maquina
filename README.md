@@ -84,4 +84,4 @@ Atributos preditivos:
 |------------|------------------|
 | Maria Luiza | Obtenção dos dados e pré-processamento |
 | Micaely | Modelagem e treinamento dos algoritmos |
-| Pedro | Documentação, análise dos resultados, gráficos, vídeo e README final |
+| Pedro | Documentação, análise dos resultados, gráficos e README final |
