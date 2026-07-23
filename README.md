@@ -85,3 +85,7 @@ Atributos preditivos:
 | Maria Luiza | Obtenção dos dados e pré-processamento |
 | Micaely | Modelagem e treinamento dos algoritmos |
 | Pedro | Documentação, análise dos resultados, gráficos e README final |
+
+# Link para o Vídeo de Apresentação
+
+https://drive.google.com/drive/folders/16iu7oHDa1uAxko-fyIUPDYMjB1vu2fw0?usp=sharing
