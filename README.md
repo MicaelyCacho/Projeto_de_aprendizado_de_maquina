@@ -90,6 +90,6 @@ Atributos preditivos:
 
 https://drive.google.com/drive/folders/16iu7oHDa1uAxko-fyIUPDYMjB1vu2fw0?usp=sharing
 
-#Link para o Google Colab
+# Link para o Google Colab
 
 https://colab.research.google.com/drive/1sMex_6wvX5vrkBBQ4I3O714MMlqgU3QN?usp=sharing
